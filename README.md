@@ -1,7 +1,7 @@
 # gangsta
 ## Gots to speak gangsta? This bot will hook you up.
 
-# Watch the video here: 
+# Watch the video [here.](link yet to come)
 
 ## Dependencies:
   * requests
