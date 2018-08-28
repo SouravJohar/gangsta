@@ -18,7 +18,7 @@ while True:
         for item in updates:
             update_id = item["update_id"]
             try:
-                message = item["message"]["text"]
+                message = str(item["message"]["text"])
             except:
                 message = None
             from_ = item["message"]["from"]["id"]
