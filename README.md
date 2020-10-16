@@ -1,5 +1,7 @@
 # gangsta
-## Gots to speak gangsta? This bot will hook you up.
+Gotta to speak gangsta? This bot will hook you up.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SouravJohar.visitor-badge)
 
 # Watch the video [here.](https://youtu.be/5nhdxpoicW4)
 
