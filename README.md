@@ -12,8 +12,10 @@ Gotta to speak gangsta? This bot will hook you up.
   
 > You: Hey! What's up?
 
-> Bot: Yo dawwwwg! Whatz good?
+> Bot: Yo dawwwwg! 
+      Whatz good?
 
 ### Usage:
+ * you can get your own api token from telegram, just search BotFather on telegram and type '/token' now choose a bot to generate new token.
  * Make a telegram bot and get the API token, and paste it inside `config.cfg`
  * ```$ python server.py```
