@@ -1,13 +1,11 @@
 from bot import telegram_chatbot
-import gizoogle
 
 bot = telegram_chatbot("config.cfg")
 
 
 def make_reply(msg):
-    reply = None
-    if msg is not None:
-        reply = gizoogle.text(msg)
+    reply = "Okay! Thank you for the Message!"
+    
     return reply
 
 update_id = None
